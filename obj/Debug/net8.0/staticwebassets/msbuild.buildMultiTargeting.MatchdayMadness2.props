@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MatchdayMadness2.props" />
+</Project>
